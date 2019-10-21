@@ -1,0 +1,33 @@
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+recognize error 
+{
+	"curl_error_code" : 0,
+	"err_detail" : "Params error.",
+	"err_msg" : "parameter error.",
+	"err_no" : 501,
+	"err_subcode" : 29,
+	"tts_logid" : 3493738586
+}
+
+recognize error 
+{
+	"curl_error_code" : 0,
+	"err_detail" : "Params error.",
+	"err_msg" : "parameter error.",
+	"err_no" : 501,
+	"err_subcode" : 29,
+	"tts_logid" : 4089995762
+}
+
+recognize error 
